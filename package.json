@@ -2,7 +2,7 @@
   "name": "picker",
   "version": "1.0.0",
   "description": "A fun game to pick who reports for daily standup",
-  "homepage": "https://kazzyapi.github.io/daily-report-finder",
+  "homepage": "./",
   "scripts": {
     "dev": "vite",
     "build": "vite build",
